@@ -8,6 +8,7 @@ public class TestReferencia {
     public  static void incrementar(int n){
         n = n + 10;
     }
+
     public static void main(String[] args) {
         /*
         El metodo modificar lo que hace es cambiar el contenido que tiene la caja
